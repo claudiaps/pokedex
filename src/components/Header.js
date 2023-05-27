@@ -4,7 +4,7 @@ const Header = ({ title }) => {
 
     return (
         <div className='headerContainer'>
-            Shasha
+            {title}
         </div>
     );
 }

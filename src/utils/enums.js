@@ -1,4 +1,4 @@
-export const types = [
+export const enumTypes = [
     {
       name: "normal",
       color: "yellow"
